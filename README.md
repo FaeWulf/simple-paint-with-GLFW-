@@ -1,6 +1,7 @@
 # simple-paint
 Using GLFW and GLEW, OpenGL 3.3
-#Features
+
+# Features
   - Basic shape draw.
   - Color, dashed line, and line.
   - Objects manager
